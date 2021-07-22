@@ -1,2 +1,2 @@
 # Extensions
-Extensions list, comma separated
+Extensions list
